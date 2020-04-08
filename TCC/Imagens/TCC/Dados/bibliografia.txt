@@ -1,0 +1,21 @@
+Capitulo 1
+
+fonte do dado dos mobile mais usados
+08/09/2018
+https://www.tecmundo.com.br/dispositivos-moveis/119411-android-ios-windows-phone-mercado.htm
+
+o que é android 09/09/2018
+https://www.android.com/enterprise/
+
+
+Ambiente de desenvolvimento 09/09/2018
+https://developer.android.com/studio/intro/?hl=pt-br
+
+o que é php 25/10/2018
+https://secure.php.net/manual/pt_BR/intro-whatis.php
+
+o que é mysql 25/10/2018
+https://www.techtudo.com.br/artigos/noticia/2012/04/o-que-e-e-como-usar-o-mysql.html
+
+o que é json 29/10/2018
+https://www.devmedia.com.br/json-tutorial/25275
